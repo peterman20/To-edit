@@ -1,5 +1,4 @@
 # To-edit
 This website is awesome
 This is fromt the newly created example branch t 
-edit on the update-readme branch
-more edit locally on update-readme
+Updates made on masters on Github before rebase
