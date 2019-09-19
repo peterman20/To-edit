@@ -2,3 +2,6 @@
 This website is awesome
 This is fromt the newly created example branch t 
 Updates made on masters on Github before rebase
+
+## Purpose
+This file is just a readme file
